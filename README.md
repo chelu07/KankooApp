@@ -1,5 +1,5 @@
 # Kankoo
-Esta es una aplicación web (mobile first) que hemos desarrollado en equipo como proyecto de final de bootcamp en Socratech para la empresa Kankoo :avión: que pronto lanzará la propuesta para vuestro disfrute como usuarios, pero... ¿qué es Kankoo?
+Esta es una aplicación web (mobile first) que hemos desarrollado en equipo como proyecto de final de bootcamp en Socratech para la empresa Kankoo 🛩️ que pronto lanzará la propuesta para vuestro disfrute como usuarios, pero... ¿qué es Kankoo?
 > En Kankoo tienes el mundo al alcance de tu mano. ¿Quieres viajar a Huelva y no sabes qué visitar? Sólo tienes que buscar la ciudad y navegar por las guías turísticas que otros usuarios han creado y disfrutar de su contenido durante tu ruta. Quizás aún nadie haya creado una guía turística sobre Huelva pero cuando la descubras, puedes hacer una nueva tú mismo y contribuir a que esta comunidad de viajeros/as siga creciendo.
 
 📹 Si quieres ponernos cara y vernos en acción, [aquí](https://www.youtube.com/watch?v=RT6CjkMvZTk&t=2s) te llevamos a nuestro vídeo explicativo en YouTube.
