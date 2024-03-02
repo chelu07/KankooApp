@@ -47,7 +47,7 @@ El código del proyecto aquí alojado se encuentra bajo licencia:
 
 ![Licencia Creative Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/220px-Cc-by-nc-sa_icon.svg.png).
 
-El nombre "Kankoo", los logos y toda información y contenidos relacionados con la empresa es propiedad de Coolx© y no podrán utilizarse sin su consentimiento expreso.
+El nombre "Kankoo", los logos y toda información y contenidos relacionados con la empresa es propiedad de Kankoo© y no podrán utilizarse sin su consentimiento expreso.
 
 
 
